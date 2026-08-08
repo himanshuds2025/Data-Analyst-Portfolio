@@ -37,7 +37,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal:** To identify which geographic markets show signs of a *breaking point* in the hospital sector (rising costs alongside a shrinking workforce) that may indicate future facility closures or service reductions?
 
-**Code:** [California Hospital Labor Market & Workforce Risk Analysis (API) ](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BAPI%5D%20Hospital%20Wages%20%26%20Employment%20Trend%20Analysis%20%5B2020-2025%5D/notebook/Final_Notebook.ipynb)
+**Code:** [California Hospital Labor Market & Workforce Risk Analysis (API).ipynb](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BAPI%5D%20Hospital%20Wages%20%26%20Employment%20Trend%20Analysis%20%5B2020-2025%5D/notebook/Final_Notebook.ipynb)
 
 **Description:** This project analyzes county-level hospital labor trends to address a real business problem in the U.S. healthcare sector. Californian counties are facing rising hospital labor costs, healthcare workforce shortages, and changing labor market conditions. Based on Bureau of Labor Statistics (BLS) and Quarterly Census of Employment and Wages (QCEW) data, this project identifies geographic markets that show signs of a breaking point in the hospital sector (rising costs alongside a shrinking workforce) that may indicate future facility closures or service reductions.
 
@@ -55,7 +55,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
  **Goal:** To identify which Iowa counties are under the most financial pressure by combining live USDA yield data with cost of production estimates.
 
-**Code:** [Iowa Corn Margin Stress Analysis (API) ](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BLIVE%20API%5D%20Iowa%20Corn%20Margins%3A%20Real%E2%80%91Time%20USDA%20Data%20Analysis%20(2015%E2%80%932025)/Live%20API%20Agriculture%20DA%20Project/NOTEBOOK.ipynb)
+**Code:** [Iowa Corn Margin Stress Analysis (API).ipynb](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BLIVE%20API%5D%20Iowa%20Corn%20Margins%3A%20Real%E2%80%91Time%20USDA%20Data%20Analysis%20(2015%E2%80%932025)/Live%20API%20Agriculture%20DA%20Project/NOTEBOOK.ipynb)
 
 **Description:** US corn farmers are facing a severe margin squeeze. Production costs remain high while commodity prices fluctuate, leaving many operations financially vulnerable. This project identifies which Iowa counties are under the most financial pressure by combining live USDA yield data with cost of production estimates. The final output is a county‑level ranking of estimated profit margins, highlighting the regions at greatest risk.
 
