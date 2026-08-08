@@ -51,12 +51,21 @@ This is a repository to showcase skills, share projects and track my progress in
 - From year 2020 to 2025, Alameda County faced **decrease of 8%** in employment levels, and **29.9% increase** in average weekly wage growth, showing signs of breaking point in the hospital sector... (rising costs + shrinking workforce).
 - Facilitated [Insights Report with actionable recommendations](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BAPI%5D%20Hospital%20Wages%20%26%20Employment%20Trend%20Analysis%20%5B2020-2025%5D/Insight_Report/Insights%20Report.pdf) for the concerned authorities.
 
+### 3) Iowa Corn Margin Stress Analysis (API) 
 
+ **Goal:** To identify which Iowa counties are under the most financial pressure by combining live USDA yield data with cost of production estimates.
 
+**Code:** [Iowa Corn Margin Stress Analysis (API) ](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BLIVE%20API%5D%20Iowa%20Corn%20Margins%3A%20Real%E2%80%91Time%20USDA%20Data%20Analysis%20(2015%E2%80%932025)/Live%20API%20Agriculture%20DA%20Project/NOTEBOOK.ipynb)
 
+**Description:** US corn farmers are facing a severe margin squeeze. Production costs remain high while commodity prices fluctuate, leaving many operations financially vulnerable. This project identifies which Iowa counties are under the most financial pressure by combining live USDA yield data with cost of production estimates. The final output is a county‑level ranking of estimated profit margins, highlighting the regions at greatest risk.
 
+**Skills:** API requests, Data Cleaning, Exploratory Data Analysis, Data Visualisation
 
+**Technology:** Python, Pandas, Requests, Matplotlib, Excel
 
-
-
-
+**Results:**
+- According to the analysis, Corn farming in the US is a risky business in 2026.
+- In the past 3 years, Iowa counties experienced a 147.6% decline in average corn profit margin, falling from $267/acre to -$127/acre.
+- A $395/acre reversal that has put every county in the red
+- Historically, 2021 and 2022 had $222-$267 average margin per acre, but 2025 shows a severse downturn across all counties.
+- [Insight Report](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BLIVE%20API%5D%20Iowa%20Corn%20Margins%3A%20Real%E2%80%91Time%20USDA%20Data%20Analysis%20(2015%E2%80%932025)/Live%20API%20Agriculture%20DA%20Project/Insight%20Report.pdf)
