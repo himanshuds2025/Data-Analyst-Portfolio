@@ -15,7 +15,12 @@ For detailed information about any specific project, please refer to the full pr
 
 **Goal:** To identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
 
-**Code:** [`1_DDL.sql`](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/1_DDL.sql)
+**Code:** 
+- [`1_DDL.sql`](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/1_DDL.sql)
+- [`2_ETL.sql`](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/2_ETL.sql)
+- [`3_DATA_QUALITY.sql`](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/3_DATA_QUALITY.sql)
+- [`4_ANALYTICS.sql`](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/4_ANALYTICS.sql)
+- [`run_all.sql`](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/run_all.sql)
 
 **Description:** This project builds an end-to-end analytics pipeline for customer churn analysis using the Brazilian Olist e-commerce dataset. The objective was to design a production-style analytical solution that enables marketing teams to identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
 
