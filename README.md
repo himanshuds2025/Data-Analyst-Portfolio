@@ -28,5 +28,5 @@ For detailed information about any specific project, please refer to the full pr
 
 **Technology:** PostgreSQL, DBeaver, Tableau, Excel
 
-**Results:** [2‑page insights report](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/Insights%20Report.pdf) with 4 data‑backed, *actionable recommendations*, proving ability to translate data into business strategy
+**Results:** [2‑page insights report](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/Insights%20Report.pdf) with 4 data‑backed, *actionable recommendations*, proving ability to translate data into business strategy along with an [Executive Dashboard](https://public.tableau.com/app/profile/himanshu.singh3621/viz/E-CommeceChurnRetentionAnalysis/Executive_Churn_Dashboard?publish=yes)
 
