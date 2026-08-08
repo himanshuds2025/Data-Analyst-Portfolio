@@ -3,7 +3,7 @@
 ## About
 Warm Greetings, I am Himanshu, a 3rd year BCA student specialising in Data Analytics. I have been focusing on creating meaningful Data Analyst projects based on real world problems and real world data. Day by day, I am derived to hone my professional skillset of technical tools and critical thinking. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level Data Analyst.
 
-My Resume in pdf.
+My Resume in [pdf](https://github.com/himanshuds2025/Data-Analyst-Portfolio/blob/main/Resume/Updated%20Resume.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
