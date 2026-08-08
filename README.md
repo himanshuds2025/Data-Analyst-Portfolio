@@ -24,7 +24,7 @@ For detailed information about any specific project, please refer to the full pr
 
 **Description:** This project builds an end-to-end analytics pipeline for customer churn analysis using the Brazilian Olist e-commerce dataset. The objective was to design a production-style analytical solution that enables marketing teams to identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
 
-**Skills:** Data pipeline, SQL Analysis, Automated ETL, Data Visualisation
+**Skills:** Data Pipeline, Automated ETL, SQL Analysis, Data Visualisation
 
 **Technology:** PostgreSQL, DBeaver, Tableau, Excel
 
