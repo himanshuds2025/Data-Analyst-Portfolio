@@ -1,7 +1,7 @@
 # Himanshu Singh - Data Analyst Portfolio
 
 ## About
-Warm Greetings, I am Himanshu, a 3rd year BCA student specialising in Data Analytics. I have been focusing on creating meaningful Data Analyst projects based on real world problems and real world data. Day by day, I am derived to hone my professional skillset of technical tools and critical thinking. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level Data Analyst.
+Warm Greetings, I am Himanshu, a 3rd year BCA student specialising in Data Analytics. I have been focusing on creating meaningful Data Analyst projects based on real world problems and real world data. I am driven to continuously hone my professional skill set, strengthen my technical and analytical abilities and critical thinking. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level Data Analyst.
 
 My Resume in [pdf](https://github.com/himanshuds2025/Data-Analyst-Portfolio/blob/main/Resume/Updated%20Resume.pdf).
 
