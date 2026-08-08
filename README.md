@@ -8,9 +8,9 @@ My Resume in pdf.
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly and give a concise walkthrough. 
-For detailed information about any specific project, please refer to the full project folder link.
----
+ In this section I will list data analytics projects briefly and give a concise walkthrough. 
+ For detailed information about any specific project, please refer to the full project folder link.
+
 ### 1. E-Commerce Churn & Retention Analysis (End-To-End)
 
 **Goal:** To identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
