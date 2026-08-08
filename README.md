@@ -50,6 +50,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Results:**
 - From year 2020 to 2025, Alameda County faced **decrease of 8%** in employment levels, and **29.9% increase** in average weekly wage growth, showing signs of breaking point in the hospital sector... (rising costs + shrinking workforce).
 - Facilitated [Insights Report with actionable recommendations](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BAPI%5D%20Hospital%20Wages%20%26%20Employment%20Trend%20Analysis%20%5B2020-2025%5D/Insight_Report/Insights%20Report.pdf) for the concerned authorities.
+- Prepared an [Executive Dashboard](https://public.tableau.com/app/profile/himanshu.singh3621/viz/Book1_17837645877920/Dashboard1?publish=yes).
 
 ### 3) Iowa Corn Margin Stress Analysis (API) 
 
