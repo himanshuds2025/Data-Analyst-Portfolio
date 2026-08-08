@@ -37,8 +37,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal:** To identify which geographic markets show signs of a *breaking point* in the hospital sector (rising costs alongside a shrinking workforce) that may indicate future facility closures or service reductions?
 
-**Code:** 
-- [California Hospital Labor Market & Workforce Risk Analysis (API) ](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BAPI%5D%20Hospital%20Wages%20%26%20Employment%20Trend%20Analysis%20%5B2020-2025%5D/notebook/Final_Notebook.ipynb)
+**Code:** [California Hospital Labor Market & Workforce Risk Analysis (API) ](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/.%5BAPI%5D%20Hospital%20Wages%20%26%20Employment%20Trend%20Analysis%20%5B2020-2025%5D/notebook/Final_Notebook.ipynb)
 
 **Description:** This project analyzes county-level hospital labor trends to address a real business problem in the U.S. healthcare sector. Californian counties are facing rising hospital labor costs, healthcare workforce shortages, and changing labor market conditions. Based on Bureau of Labor Statistics (BLS) and Quarterly Census of Employment and Wages (QCEW) data, this project identifies geographic markets that show signs of a breaking point in the hospital sector (rising costs alongside a shrinking workforce) that may indicate future facility closures or service reductions.
 
