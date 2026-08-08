@@ -12,9 +12,9 @@ In this section I will list data analytics projects briefly and give a concise w
 - For detailed information about any specific project, please refer to the full project folder link.
 
 ### E-Commerce Churn & Retention Analysis (End-To-End)
-### Goal: 
-### Code:
-### Description:
-### Skills:
-### Technology:
-### Results:
+#### Goal: 
+#### Code:
+#### Description:
+#### Skills:
+#### Technology:
+#### Results:
