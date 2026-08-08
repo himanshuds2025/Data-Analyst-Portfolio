@@ -9,7 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly and give a concise walkthrough. 
-- For detailed information about any specific project, please refer to the full project folder link.
+For detailed information about any specific project, please refer to the full project folder link.
 
 ### E-Commerce Churn & Retention Analysis (End-To-End)
 #### Goal: 
