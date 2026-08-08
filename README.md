@@ -24,9 +24,12 @@ For detailed information about any specific project, please refer to the full pr
 
 **Description:** This project builds an end-to-end analytics pipeline for customer churn analysis using the Brazilian Olist e-commerce dataset. The objective was to design a production-style analytical solution that enables marketing teams to identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
 
-**Skills:** Data Pipeline, Automated ETL, SQL Analysis, Data Visualisation
+**Skills:** Data Warehousing, Star Schema, Data Pipeline, Automated ETL, SQL Analysis, Data Visualisation
 
 **Technology:** PostgreSQL, DBeaver, Tableau, Excel
 
-**Results:** [2‑page insights report](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/Insights%20Report.pdf) with 4 data‑backed, *actionable recommendations*, proving ability to translate data into business strategy along with an [Executive Dashboard](https://public.tableau.com/app/profile/himanshu.singh3621/viz/E-CommeceChurnRetentionAnalysis/Executive_Churn_Dashboard?publish=yes)
+**Results:** 
+- Delivery delay is the strongest observed churn driver, where churned customers wait an average of 12.69 days (2x of Active Customers) while Active customers wait 6.58 days.
+- Average Month 1 retention is only 5.22% and falls below 1% from Month 2 onward.
+- Business Recommendations in [2‑page insights report](https://github.com/himanshuds2025/Data-Analyst-Project/blob/main/%5BEnd-To-End%5D%20E-Commerce%20Churn%20%26%20Retention%20Analysis/Deliverables/Insights%20Report.pdf) with 4 data‑backed, *actionable recommendations*, proving ability to translate data into business strategy along with an [Executive Dashboard](https://public.tableau.com/app/profile/himanshu.singh3621/viz/E-CommeceChurnRetentionAnalysis/Executive_Churn_Dashboard?publish=yes)
 
