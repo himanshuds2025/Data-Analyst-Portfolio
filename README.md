@@ -12,9 +12,15 @@ In this section I will list data analytics projects briefly and give a concise w
 For detailed information about any specific project, please refer to the full project folder link.
 
 ### E-Commerce Churn & Retention Analysis (End-To-End)
-**Goal:** The objective was to design a production-style analytical solution that enables marketing teams to identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
-#### Code:
-#### Description:
-#### Skills:
-#### Technology:
-#### Results:
+
+**Goal:** To identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
+
+**Code:** 
+
+**Description:** This project builds an end-to-end analytics pipeline for customer churn analysis using the Brazilian Olist e-commerce dataset. The objective was to design a production-style analytical solution that enables marketing teams to identify customers at risk of churn, understand why they leave, and prioritize retention strategies based on customer value.
+
+**Skills:** Data pipeline, SQL Analysis, Automated ETL, Data Visualisation
+
+**Technology:** PostgreSQL, DBeaver, Tableau, Excel
+
+**Results:** 2‑page insights report with 4 data‑backed, actionable recommendations, proving ability to translate data into business strategy
